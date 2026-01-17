@@ -1,0 +1,6 @@
+# build outputs
+tinysh
+*.o
+
+# macOS junk
+.DS_Store
